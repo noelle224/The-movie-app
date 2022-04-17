@@ -3,4 +3,5 @@
 uses tmdb api to extract all the images, Project from (50-days 50-projects) udemy.
 
 
-![image](https://user-images.githubusercontent.com/45075050/163707701-af020632-4fbf-4cff-980e-31ca37e31f8c.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/45075050/163708030-95b03ffd-e4bd-4e79-ac68-9ccb3f4e9690.png)
